@@ -23,8 +23,9 @@ is(islands)
 > islands[8]
 Borneo 
    280 
-   ````
-   5.
+````
+5.
+````R
 > mylist<-list(islands,beaver1,mtcars)
 > mylist
 ````
