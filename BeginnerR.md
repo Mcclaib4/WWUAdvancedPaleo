@@ -18,3 +18,15 @@ is(islands)
 > is(beaver1.mtx,"matrix")
 [1] TRUE
 ````
+4.
+````R
+> islands[8]
+Borneo 
+   280 
+   ````
+   5.
+> mylist<-list(islands,beaver1,mtcars)
+> mylist
+````
+5.
+````R
