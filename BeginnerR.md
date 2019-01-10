@@ -28,5 +28,18 @@ Borneo
 > mylist<-list(islands,beaver1,mtcars)
 > mylist
 ````
-5.
+6.
 ````R
+> is(islands,"numeric")
+[1] TRUE
+````
+7.
+````R
+> mtcars[2,7]
+[1] 17.02
+> mtcars[2,"qsec"]
+[1] 17.02
+> mtcars["Mazda RX4 Wag",7]
+[1] 17.02
+> mtcars[,"qsec"][2]
+[1] 17.02
