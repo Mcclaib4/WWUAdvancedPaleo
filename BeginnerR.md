@@ -56,7 +56,13 @@ No
 ````R
 > attach(beaver1)
 > beaver1[order(temp),]
+> detach(beaver1)
 ````
+````R
+> attach(beaver1)
+> if(beaver1[order(temp),][1,][3] < 36.3){print("Yes")}else{print("No")}
+[1] "No"
+> detach(beaver1)
 10.
 ````R
 > ValueA<-sum(beaver1[3])
