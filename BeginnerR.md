@@ -52,8 +52,10 @@ Borneo
 > islands[45][1]=10
 ````
 9.
+No
 ````R
-> beaver1[3]
+> attach(beaver1)
+> beaver1[order(temp),]
 ````
 10.
 ````R
