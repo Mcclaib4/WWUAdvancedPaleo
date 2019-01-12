@@ -47,3 +47,19 @@ Borneo
 ````
 8.
 ````R
+> islands[21][1]=83
+> islands[24][1]=21
+> islands[45][1]=10
+````
+9.
+````R
+> beaver1[3]
+````
+10.
+````R
+> ValueA<-sum(beaver1[3])
+> ValueB<-sum(mtcars[6,])
+> ValueC<-sum(islands[1:7])
+> (ValueC/ValueB)+ValueA
+[1] 4298.739
+````
