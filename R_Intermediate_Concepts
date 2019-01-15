@@ -1,3 +1,6 @@
 **Section 1**
 
-```R
+````R
+replace=
+````
+ensures that no element occurs twice
