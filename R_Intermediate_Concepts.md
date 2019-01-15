@@ -28,3 +28,9 @@ ensures that no element occurs twice
 
 5.
 ````R
+> apply(MyMatrix,2,sum)
+ [1] 46 35 32 50 45 61 38 47 38 39 57 50
+ ````
+ 
+ 6.
+ ````R
