@@ -23,6 +23,8 @@ ensures that no element occurs twice
 ````R
 > which(MyMatrix==7)
 [1] 17 32 37 48 53 60 71 83 91
+
+> table(MyMatrix)
 ````
 9
 
