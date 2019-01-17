@@ -34,3 +34,12 @@ ensures that no element occurs twice
  
  6.
  ````R
+````
+
+7.
+````R
+````
+
+8.
+````R
+````
