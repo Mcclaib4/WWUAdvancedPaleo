@@ -56,7 +56,7 @@ ensures that no element occurs twice
 
 ````
 
-10. **?**
+10.
 ````R
 > which(apply(MyMatrix,1,sum)>70)
 [1] 1 2 3 4 6 7 8
