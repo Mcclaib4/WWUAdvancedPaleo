@@ -4,7 +4,7 @@
 ````R
 replace=
 ````
-ensures that no element occurs twice
+It designates whether or not the function should replace the current elements of the matrix with new ones.
 
 2.
 ````R
