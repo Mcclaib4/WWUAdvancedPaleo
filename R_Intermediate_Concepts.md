@@ -1,6 +1,6 @@
 **Section 1**
 
-1. **?**
+1.
 
 It designates whether or not the function should replace the current elements of the matrix with new ones.
 
@@ -51,7 +51,7 @@ It designates whether or not the function should replace the current elements of
 
 9. **?**
 ````R
-
+> MyMatrix[,12]<-"character"
 ````
 
 10.
