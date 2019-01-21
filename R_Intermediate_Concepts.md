@@ -1,9 +1,6 @@
 **Section 1**
 
 1. **?**
-````R
-replace=
-````
 It designates whether or not the function should replace the current elements of the matrix with new ones.
 
 2.
