@@ -1,5 +1,3 @@
-**Section 1**
-
 1.
 ````R
 > Greetings<-"Hello, World"
