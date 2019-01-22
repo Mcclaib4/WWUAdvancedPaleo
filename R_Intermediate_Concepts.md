@@ -54,6 +54,15 @@ It designates whether or not the function should replace the current elements of
 > MyFrame<-as.data.frame(MyMatrix)
 > MyFrame[,12]<-as(MyFrame[,12],"character")
 > MyFrame
+  V1 V2 V3 V4 V5 V6 V7 V8 V9 V10 V11 V12
+1 10  6  7  3 11  8 11  4  5   8   6  10
+2 11  2 11 10  6  9 10  3 10  11   8   5
+3  5  5  2  8  6  8 11 10  5   6   7   7
+4 11 11  3  5 10  8  5  7  2   3   6   9
+5 10  2  9  5  7  3  7  3  5   5   3   2
+6 10  8  3 10  4  8  9  2  2  11   9   4
+7  4 10 11  2  3 10  4  8  7   9   9   8
+8  5 11  6  7  8  7 11 10  2   6   9   5
 ````
 
 10.
