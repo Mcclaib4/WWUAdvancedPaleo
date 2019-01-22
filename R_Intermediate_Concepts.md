@@ -49,14 +49,27 @@ It designates whether or not the function should replace the current elements of
 [1] 34
 ````
 
-9. **?**
+9.
 ````R
-> MyMatrix[,12]<-"character"
+> MyFrame<-as.data.frame(MyMatrix)
+> MyFrame[,12]<-as(MyFrame[,12],"character")
+> MyFrame
 ````
 
 10.
 ````R
-> which(apply(MyMatrix,1,sum)>70)
-[1] 1 2 3 4 6 7 8
-
+> NewMatrix<-matrix(NA,nrow=8,ncol=13)
+> NewFrame<-data.frame(NewMatrix)
+> NewFrame[,1:12]<-MyMatrix
+> NeFrame[,13]<-Sums>70
+> NewFrame
+  X1 X2 X3 X4 X5 X6 X7 X8 X9 X10 X11 X12   X13
+1 10  6  7  3 11  8 11  4  5   8   6  10  TRUE
+2 11  2 11 10  6  9 10  3 10  11   8   5  TRUE
+3  5  5  2  8  6  8 11 10  5   6   7   7  TRUE
+4 11 11  3  5 10  8  5  7  2   3   6   9  TRUE
+5 10  2  9  5  7  3  7  3  5   5   3   2 FALSE
+6 10  8  3 10  4  8  9  2  2  11   9   4  TRUE
+7  4 10 11  2  3 10  4  8  7   9   9   8  TRUE
+8  5 11  6  7  8  7 11 10  2   6   9   5  TRUE
 ````
