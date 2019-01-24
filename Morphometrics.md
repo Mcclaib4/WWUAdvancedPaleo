@@ -7,10 +7,12 @@ The data indicates that specimen dimensions vary considerably.
 3.  **According to the plot, which two specimens are LEAST similar in terms of PC 1?**
 Specimens 8 and 29 are the least similar in terms of PC1.
 
+4.  **Embed the ````R .png ```` files for these two specimens in your MarkDown file and describe the visual differences between them. What factor does PC 1 seem to describe?**
+
 ![Osteo8](https://github.com/Mcclaib4/Osteostracans/blob/master/osteostracans/Boreaspis_ceratops.png)
 ![Osteo29](https://github.com/Mcclaib4/Osteostracans/blob/master/osteostracans/Zychiaspis_siemiradzkii.png)
 
-4.  **Embed the ````R .png ```` files for these two specimens in your MarkDown file and describe the visual differences between them. What factor does PC 1 seem to describe?**
+The rostral of *Boreaspis ceratops* is extremely elongated relative to *Zychiaspis siemiradzkii*. The spinals of both specimens are relatively equal in length however the angles at which they protrude from the skull is quite different. *Boreaspis ceratops* protrudes at approximately 100&deg;
 
 5.  **According to the plot, which two specimens are least similar in terms of PC 2?**
 
