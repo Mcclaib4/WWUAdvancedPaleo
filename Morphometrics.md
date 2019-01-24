@@ -8,7 +8,7 @@ The data indicates that specimen dimensions vary considerably.
 Specimens 8 and 29 are the least similar in terms of PC1.
 
 ![Osteo8](https://github.com/Mcclaib4/Osteostracans/blob/master/osteostracans/Boreaspis_ceratops.png)
-![Osteo29](/Mcclaib4/Osteostracans/osteostracans/Zychiaspis_siemiradzkii.png)
+![Osteo29](https://github.com/Mcclaib4/Osteostracans/blob/master/osteostracans/Zychiaspis_siemiradzkii.png)
 
 4.  **Embed the ````R .png ```` files for these two specimens in your MarkDown file and describe the visual differences between them. What factor does PC 1 seem to describe?**
 
