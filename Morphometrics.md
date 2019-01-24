@@ -12,7 +12,7 @@ Specimens 8 and 29 are the least similar in terms of PC1.
 ![Osteo8](https://github.com/Mcclaib4/Osteostracans/blob/master/osteostracans/Boreaspis_ceratops.png)
 ![Osteo29](https://github.com/Mcclaib4/Osteostracans/blob/master/osteostracans/Zychiaspis_siemiradzkii.png)
 
-The rostral of *Boreaspis ceratops* is extremely elongated relative to *Zychiaspis siemiradzkii*. The spinals of both specimens are relatively equal in length however the angles at which they protrude from the skull is quite different. *Boreaspis ceratops* protrudes at approximately 100&deg;
+The rostral extension of *Boreaspis ceratops* is prolonged with near parallel lateral margins where as *Zychiaspis siemiradzkii* has no rostral extension. The Posterolateral margin of the shield of both specimens are relatively equal in length however the curvature direction  is quite different. *Boreaspis ceratops* has no curve, while *Zychiaspis siemiradzkii* has a medial curve. In *Boreaspis ceratops*, lateral fields extend onto the abdominal division posterior to the pectoral sinus and the pectoral sinus is anterior in relation to the level of orbits. In *Zychiaspis siemiradzkii*, lateral fields' extend to cornua and the pectoral sinus is posterior in relation to the level of orbits. 
 
 5.  **According to the plot, which two specimens are least similar in terms of PC 2?**
 
