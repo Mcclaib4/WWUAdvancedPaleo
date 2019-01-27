@@ -18,6 +18,7 @@ The rostral extension of *Boreaspis ceratops* is prolonged with near parallel la
 *Belonaspis puella* & *Benneviaspis anglica* are least similar in terms of PC2.
 
 6.  **Embed these images in your MarkDown file and describe the visual differences between them. What factor does PC 2 seem to describe?**
+
 ![Osteo3](https://github.com/Mcclaib4/Osteostracans/blob/master/osteostracans/Belonaspis_puella.png)
 ![Osteo4](https://github.com/Mcclaib4/Osteostracans/blob/master/osteostracans/Benneviaspis_anglica.png)
 
