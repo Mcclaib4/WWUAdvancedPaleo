@@ -36,3 +36,4 @@ The rostral extension of *Boreaspis ceratops* is prolonged with near parallel la
 
 ![PC1/PC18_Osteo](https://github.com/Mcclaib4/Osteostracans/blob/master/osteostracans/PC1_PC18_Osteo.png)
 
+PC1 has the greatest variance within the data with each subsequent principle component axis having a lesser range of variance. The eighteenth PCA has a variance that is so greatly reduced that it is very close to zero, causing the specimen data to plot near the major axis.
