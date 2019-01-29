@@ -26,5 +26,13 @@ The rostral extension of *Boreaspis ceratops* is prolonged with near parallel la
 
 7.  **Create a simple bar plot of the proportion of variance and embed the figure in your Markdown file.**
 
+![BarPlot](https://github.com/Mcclaib4/Osteostracans/blob/master/osteostracans/PropVar_barplot.png)
 
 8.  **Try plotting PC 1 and PC 18. Include the code that you used in your MarkDown file, and embed the resuting plot. Why does it look like all the specimens fall almost perfectly along a single line parallel to the major axis?**
+
+````R
+> osteoPCA <- plotTangentSpace(osteoGPA$coords, axis1 = 1, axis2 = 18, label = TRUE)
+````
+
+![PC1/PC18_Osteo](https://github.com/Mcclaib4/Osteostracans/blob/master/osteostracans/PC1_PC18_Osteo.png)
+
