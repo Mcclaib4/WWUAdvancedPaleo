@@ -12,7 +12,7 @@ Specimens 8 and 29 are the least similar in terms of PC1.
 ![Osteo8](https://github.com/Mcclaib4/Osteostracans/blob/master/osteostracans/Boreaspis_ceratops.png)
 ![Osteo29](https://github.com/Mcclaib4/Osteostracans/blob/master/osteostracans/Zychiaspis_siemiradzkii.png)
 
-The rostral extension of *Boreaspis ceratops* is prolonged with near parallel lateral margins where as *Zychiaspis siemiradzkii* has no rostral extension. The Posterolateral margin of the shield of both specimens are relatively equal in length however the curvature direction  is quite different. *Boreaspis ceratops* has no curve, while *Zychiaspis siemiradzkii* has a medial curve. In *Boreaspis ceratops*, lateral fields extend onto the abdominal division posterior to the pectoral sinus and the pectoral sinus is anterior in relation to the level of orbits. In *Zychiaspis siemiradzkii*, lateral fields' extend to cornua and the pectoral sinus is posterior in relation to the level of orbits. PC1 describes **?**
+The rostral extension of *Boreaspis ceratops* is prolonged with near parallel lateral margins where as *Zychiaspis siemiradzkii* has no rostral extension. The posterolateral margin of the shield of both specimens are relatively equal in length however the curvature direction  is quite different. *Boreaspis ceratops* has no curve, while *Zychiaspis siemiradzkii* has a medial curve. In *Boreaspis ceratops*, lateral fields extend onto the abdominal division posterior to the pectoral sinus and the pectoral sinus is anterior in relation to the level of orbits. In *Zychiaspis siemiradzkii*, lateral fields' extend to cornua and the pectoral sinus is posterior in relation to the level of orbits. PC1 seems to describe the length of the rostral extensions. 
 
 5.  **According to the plot, which two specimens are least similar in terms of PC 2?**
 *Belonaspis puella* & *Benneviaspis anglica* are least similar in terms of PC2.
@@ -22,7 +22,7 @@ The rostral extension of *Boreaspis ceratops* is prolonged with near parallel la
 ![Osteo3](https://github.com/Mcclaib4/Osteostracans/blob/master/osteostracans/Belonaspis_puella.png)
 ![Osteo4](https://github.com/Mcclaib4/Osteostracans/blob/master/osteostracans/Benneviaspis_anglica.png)
 
-**?**
+The rostral extension of *Belonaspis puella* is prolonged with near parallel lateral margins where as *Benneviaspis anglica* is hypothesized have no rostral extension. Lateral field posterior most point anterior to the level of the external opening of the endolymphatic ducts in both specimens. Lateral field anteriormost point anterior to the level of  the  nasal  division of the  hypophysial opening in both specimens. Lateral fields of *Benneviaspis anglica* do not extend onto the abdominal division posterior to the pectoral sinus. PC2 seems to describe the length of the posterolateral margin.
 
 7.  **Create a simple bar plot of the proportion of variance and embed the figure in your Markdown file.**
 
