@@ -30,16 +30,19 @@
 
 Based on my observations, I would divide the specimens into the following species:
 
-Sp 1. 1,8,21
+Sp 1) 1,8,21
 
-Sp 2. 2,4,5,14,25
+Sp 2) 2,4,5,14,25
 
-Sp 3. 3,7,9,10,13,15,17,19,23
+Sp 3) 3,7,9,10,13,15,17,19,23
 
-Sp 4. 6,12,18
+Sp 4) 6,12,18
 
-Sp 5. 11,20
+Sp 5) 11,20
 
-Sp 6. 16,24
+Sp 6) 16,24
 
-Sp 7. 22
+Sp 7) 22
+
+**2.**
+
