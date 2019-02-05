@@ -103,3 +103,13 @@ $names
 
 **2.**
 ````R
+> ProcrustesHummingbirds<-gpagen(hummingbirds$land)
+````
+
+**3.**
+````R
+plotTangentSpace(ProcrustesHummingbirds$coords, warpgrids = FALSE, verbose = FALSE)
+````
+
+**4.**
+3 species
