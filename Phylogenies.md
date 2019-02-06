@@ -113,3 +113,41 @@ plotTangentSpace(ProcrustesHummingbirds$coords, warpgrids = FALSE, verbose = FAL
 
 **4.**
 3 species
+
+**Part III**
+
+**1.**
+
+Fangs longer than 6 inches.
+
+**2.**
+
+A, B, & C.
+
+**3.**
+
+Adorable eyelashes
+
+**4.**
+
+C, D, & E.
+
+**5.**
+
+D lacks laser death rays.
+
+**6.**
+
+Synapomorphy
+
+**7.**
+
+Family 1 is monophyletic, family 2 is polyphyletic, and family 3 is monophyletic.
+
+**8.**
+
+This would not be an advisable grouping as their most recent common ancestor is relatively far removed and a variety of justifications would need to be made as to why every other species in the cladogram would not be included in the family.
+
+**9.**
+
+Group 1 is paraphyletic, group 2 is monophyletic, group 3 is paraphyletic, group 4 is paraphyletic, and group 5 is polyphyletic.
