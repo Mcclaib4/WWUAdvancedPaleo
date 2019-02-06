@@ -2,7 +2,7 @@
 
 **1.** 
 
-Based on my observations, I would divide the specimens into the following species:
+Based on my observations on similarities of shell characteristics, I would divide the specimens into the following species:
 
 Sp 1) 1,8,21
 
@@ -48,11 +48,11 @@ Sp 7) 22
 
 **3.**
 
-**?**
+With the exception of size differences within some species, I was unable to justify any ontogentic changes within any of the species I classified.
 
 **4.**
 
-**?**
+**???** 
 
 **Part II**
 
