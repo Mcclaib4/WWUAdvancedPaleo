@@ -54,7 +54,7 @@ Myalinida
 
 **1.**
 
-https://paleobiodb.org/data1.2/occs/list.json?datainfo&rowcount&base_name=Ambonychia&strat=Lexington Limestone
+https://paleobiodb.org/data1.2/occs/list.json?datainfo&rowcount&base_name=Ambonychia&strat=LexingtonLimestone
 
 **2.**
 
