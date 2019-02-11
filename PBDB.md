@@ -91,3 +91,34 @@ Tropics
 **10.**
 
 Kotodzha Fm. and Raiga Fm.
+
+**Part 4**
+
+**1.**
+````R
+> Mammut<-fread('https://paleobiodb.org/data1.2/colls/list.csv?base_name=Mammut&interval=Pliocene')
+````
+
+**2.**
+````R
+> dim(Mammut)
+[1] 70 14
+````
+
+**3.**
+
+collections
+
+**4.**
+
+*Mammut*, Mastadon, Pliocene
+
+**5.**
+````R
+> Mammut<-fread('https://paleobiodb.org/data1.2/colls/list.csv?base_name=Mammut&interval=Miocene,Pleistocene')
+````
+
+**6.**
+````R
+> Mammut<-fread('https://paleobiodb.org/data1.2/colls/list.csv?base_name=Mammut&interval=Miocene,Pleistocene&show=paleoloc')
+````
