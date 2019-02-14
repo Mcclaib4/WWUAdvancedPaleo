@@ -124,4 +124,6 @@ collections
 ````
 **Part V**
 
-**???**
+````R
+downloadPBDB<-function(taxon="",interval=""){return(fread(paste('https://paleobiodb.org/data1.2/occs/list.csv?base_name=',taxon,'&interval=',interval,sep="")))}
+````
