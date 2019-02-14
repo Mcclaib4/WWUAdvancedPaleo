@@ -8,3 +8,8 @@ apply(PresencePBDB,1,sum)
 ````
 
 **2.**
+
+29
+````R
+
+````
