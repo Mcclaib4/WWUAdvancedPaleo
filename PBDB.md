@@ -54,28 +54,23 @@ Myalinida
 
 **1.**
 
-https://paleobiodb.org/data1.2/occs/list.json?
-datainfo&rowcount&base_name=Ambonychia&strat=LexingtonLimestone
+https://paleobiodb.org/data1.2/occs/list.json?datainfo&rowcount&base_name=Ambonychia&strat=LexingtonLimestone
 
 **2.**
 
-https://paleobiodb.org/data1.2/occs/list.csv?
-datainfo&rowcount&base_name=Mammalia&interval=Paleocene,Oligocene
+https://paleobiodb.org/data1.2/occs/list.csv?datainfo&rowcount&base_name=Mammalia&interval=Paleocene,Oligocene
 
 **3.**
 
-https://paleobiodb.org/data1.2/occs/opinions.csv?
-datainfo&rowcount&base_name=Testudines&interval=Mesozoic&op_type=all
+https://paleobiodb.org/data1.2/occs/opinions.csv?datainfo&rowcount&base_name=Testudines&interval=Mesozoic&op_type=all
 
 **4.**
 
-https://paleobiodb.org/data1.2/occs/opinions.csv?
-datainfo&rowcount&base_name=Aves,Marsupialia,Sirenia&cc=US&op_type=all
+https://paleobiodb.org/data1.2/occs/opinions.csv?datainfo&rowcount&base_name=Aves,Marsupialia,Sirenia&cc=US&op_type=all
 
 **5.**
 
-https://paleobiodb.org/data1.2/taxa/opinions.csv?
-datainfo&rowcount&base_name=ficus&rank=genus&op_type=all
+https://paleobiodb.org/data1.2/taxa/opinions.csv?datainfo&rowcount&base_name=ficus&rank=genus&op_type=all
 
 **6.**
 
@@ -133,7 +128,7 @@ base_name=Mammut&interval=Miocene,Pleistocene&show=paleoloc')
 **Part V**
 
 ````R
-downloadPBDB<-function(taxon="",interval=""){
+> downloadPBDB<-function(taxon="",interval=""){
 return(fread(paste('https://paleobiodb.org/data1.2/occs/list.csv?
 base_name=',taxon,'&interval=',interval,sep="")))}
 ````
