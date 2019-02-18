@@ -15,7 +15,7 @@
 ````R
 > PresencePBDB[,"Mytilus"]
 ````
-Early Devonian, Late Jurassic, Eocene, Late Cretaceous, Early Cretaceous, Middle Jurassic, Paleocene, Oligocene, Miocene, Early Jurassic,  Pleistocene, Middle Triassic, Late Triassic, Pliocene, and Early Triassic.
+Early Devonian; Early, Middle, & Late Triassic; Early, Middle, & Late Jurassic; Early & Late Cretaceous; Paleocene; Eocene; Oligocene; Miocene; Pliocene; Pleistocene.
 
 **4.**
 
