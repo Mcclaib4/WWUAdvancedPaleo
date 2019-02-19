@@ -24,4 +24,10 @@ Middle & Late Devonian, Mississippian, Pennsylvanian, Cisuralian, Guadalupian, a
 **Problem Set II**
 
 **1.**
-
+````R
+> P<-length(which(PresencePBDB["Pleistocene",] == 1 & PresencePBDB["Miocene",] == 0))
+> M<-length(which(PresencePBDB["Miocene",] == 1 & PresencePBDB["Pleistocene",] == 0))
+> P_M<-length(which(PresencePBDB["Miocene",] == 1 & PresencePBDB["Pleistocene",] == 1))
+> P_M/(P+M+P_M)
+[1] 0.8350825
+````
