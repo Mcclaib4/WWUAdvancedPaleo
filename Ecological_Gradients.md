@@ -31,3 +31,19 @@ Middle & Late Devonian, Mississippian, Pennsylvanian, Cisuralian, Guadalupian, a
 > P_M/(P+M+P_M)
 [1] 0.8350825
 ````
+
+**2.**
+````R
+> 1-(P_M/(P+M+P_M))
+[1] 0.1649175
+````
+
+**3.**
+````R
+> vegdist(PresencePBDB,method="jaccard")
+````
+
+**4.**
+````R
+
+````
