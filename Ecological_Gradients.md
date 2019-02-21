@@ -44,6 +44,14 @@ Middle & Late Devonian, Mississippian, Pennsylvanian, Cisuralian, Guadalupian, a
 ````
 
 **4.**
-````R
 
-````
+(Pleistocene/Pliocene)=0.12933754, (Pleistocene/Miocene)=0.16491754,
+(Pleistocene/Oligocene)=0.27575758, (Pleistocene/Eocene)=0.21428571,
+(Pleistocene/Paleocene)=0.43750000, (Pliocene/Miocene)=0.09036145,
+(Pliocene/Oligocene)=0.20091324, (Pliocene/Eocene)=0.14202050,
+(Pliocene/Paleocene)=0.37826087, (Miocene/Oligocene)=0.16265060,
+(Miocene/Eocene)=0.08918129, (Miocene/Paleocene)=0.32075472,
+(Oligocene/Eocene)=0.18573551, (Oligocene/Paleocene)=0.40625000,
+(Eocene/Paleocene)=0.32173913
+
+Miocene and Eocene are the most dissimilar.
