@@ -9,3 +9,9 @@
 ````
 
 **3.**
+````R
+> locationOrdovician <- velociraptr::presenceMatrix(Ordovician,Rows="genus",Columns = "geoplate")
+> locationOrdovician<-velociraptr::cullMatrix(locationOrdovician,Rarity=2,Richness=25)
+````
+**4.**
+````R
