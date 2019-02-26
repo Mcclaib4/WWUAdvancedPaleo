@@ -13,5 +13,8 @@
 > locationOrdovician <- velociraptr::presenceMatrix(Ordovician,Rows="genus",Columns = "geoplate")
 > locationOrdovician<-velociraptr::cullMatrix(locationOrdovician,Rarity=2,Richness=25)
 ````
-**4.**
+**4.** **???**
 ````R
+> OrdovicianDCA<-vegan::decorana(locationOrdovician)
+> plot(OrdovicianDCA,display="sites")
+````
