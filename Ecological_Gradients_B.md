@@ -18,3 +18,4 @@
 > OrdovicianDCA<-vegan::decorana(locationOrdovician)
 > plot(OrdovicianDCA,display="sites")
 ````
+Beyond this point is when the graph didn't look right, but I haven't figured out how to fix it.
