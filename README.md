@@ -10,6 +10,6 @@ This is the personal repository for Brandon McClain's course documents. In this 
 6. Phylogenies
 7. PBDB
 8. Ecological Gradients
-9. Stratigraphic Rnage
+9. Stratigraphic Range
 10. Photogrammetry
 11. 3D Data
