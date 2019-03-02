@@ -30,3 +30,11 @@ Earliest and latest occurences respectively of that species within the specified
 ````
 
 **Problem Set II**
+
+**6.**
+
+The first line isolates the paleolongitude data, while also omitting any entries with missing data.
+The second line randomly resamples the occurrences of Lucina, then finds the mean longitude of that resample.
+
+**7.**
+````R
