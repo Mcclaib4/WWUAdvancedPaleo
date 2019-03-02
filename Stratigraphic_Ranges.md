@@ -22,3 +22,11 @@ Earliest and latest occurences respectively of that species within the specified
 
 **5.**
 ````R
+> Anadara<-DataPBDB[which(DataPBDB[,"genus"]=="Anadara"),]
+> max(Anadara[,"max_ma"])
+[1] 66
+> min(Anadara[,"min_ma"])
+[1] 0
+````
+
+**Problem Set II**
