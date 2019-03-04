@@ -38,3 +38,21 @@ The second line randomly resamples the occurrences of Lucina, then finds the mea
 
 **7.**
 ````R
+> plot(density(ResampledMeans))
+````
+The distribution looks quite similar to a Gaussian distribution.
+
+**8.**
+````R
+> mean(ResampledMeans)
+[1] 24.27991
+````
+It is very similar to the original mean.
+
+**9.**
+````R
+> sort(ResampledMeans,decreasing = FALSE)
+````
+
+**10.**
+````R
