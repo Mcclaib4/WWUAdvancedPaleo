@@ -71,6 +71,6 @@ to the actual mean than these numbers is 97.5.
 
 **12.**
 
-It is unlikely that *Lucina* is not extinct.
+It is unlikely that *Lucina* is extant.
 
 **13.**
