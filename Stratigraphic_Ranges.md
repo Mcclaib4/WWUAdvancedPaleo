@@ -71,6 +71,51 @@ to the actual mean than these numbers is 97.5.
 
 **12.**
 
-It is unlikely that *Lucina* is extant.
+It is highly likely that *Lucina* is extant.
 
 **13.**
+````R
+> estimateExtinction(Dallarca[,"min_ma"],0.95)
+Earliest   Latest 
+ 2.58800 -3.88749
+ ````
+ 
+ **14.**
+ 
+ There is a 95% liklihood that *Dallarca* is extant.
+ 
+ **15.**
+ 
+ Statistical analysis indicates that *Dallarca* is likely to be extant and with it being a bivalve it is not absurd to think that it is a Lazarus taxa.
+ 
+ **Problem Set IV**
+ 
+ **16.**
+ 
+ Taxa are, generally, relatively rare early and late in their period of existence, with a period of relative abundance somewhere in the middle. It is not randomly distributed throughout.
+ 
+ **17.**
+ 
+ Likelihood of preservation can change drastically through a stratigraphic section depending on the erossional and depositional conditions of the region during the time period in question.
+ 
+ **Problem Set V**
+ 
+ **18.**
+````R
+> nrow(ExtantData)
+[1] 62114
+> nrow(DataPBDB)
+[1] 71215
+> nrow(DataPBDB)-nrow(ExtantData)
+[1] 9101
+````
+
+**19.**
+````R
+> length(unique(DataPBDB[,"genus"]))
+[1] 1075
+> length(unique(ExtantData[,"genus"]))
+[1] 544
+> length(unique(DataPBDB[,"genus"]))-length(unique(ExtantData[,"genus"]))
+[1] 531
+````
