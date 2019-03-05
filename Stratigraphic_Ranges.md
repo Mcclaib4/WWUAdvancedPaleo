@@ -56,3 +56,21 @@ It is very similar to the original mean.
 
 **10.**
 ````R
+> quantile(ResampledMeans, c(.025, .975))
+    2.5%    97.5% 
+21.71473 26.69090 
+````
+
+**11.**
+
+The numbers are the upper and lower confidence intervals because
+the probability that the mean from any given sample will be closer
+to the actual mean than these numbers is 97.5.
+
+**Problem Set III**
+
+**12.**
+
+It is unlikely that *Lucina* is not extinct.
+
+**13.**
