@@ -116,6 +116,15 @@ Earliest   Latest
 [1] 1075
 > length(unique(ExtantData[,"genus"]))
 [1] 544
-> length(unique(DataPBDB[,"genus"]))-length(unique(ExtantData[,"genus"]))
-[1] 531
+> (length(unique(ExtantData[,"genus"]))/length(unique(DataPBDB[,"genus"])))*100
+[1] 50.60465
 ````
+
+**20.**
+````R
+> tapply(ExtantData[,"max_ma"],ExtantData[,"genus"],max)
+> tapply(ExtantData[,"min_ma"],ExtantData[,"genus"],min)
+````
+
+**21.**
+**???**
