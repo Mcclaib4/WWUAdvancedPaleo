@@ -127,4 +127,41 @@ Earliest   Latest
 ````
 
 **21.**
-**???**
+````R
+subset(ExtantData$genus,"min_ma">0)
+````
+
+**22.**
+````R
+> estimateExtinction(Scrobicularia[,"min_ma"],0.95)
+ Earliest    Latest 
+  0.01170 -34.70966 
+> estimateExtinction(Meiocardia[,"min_ma"],0.95)
+ Earliest    Latest 
+ 0.011700 -3.937808 
+> estimateExtinction(Dimya[,"min_ma"],0.95)
+ Earliest    Latest 
+ 0.781000 -2.054688 
+> estimateExtinction(Digitaria[,"min_ma"],0.95)
+ Earliest    Latest 
+ 0.781000 -3.761154 
+> estimateExtinction(Cuspidaria[,"min_ma"],0.95)
+ Earliest    Latest 
+2.5880000 0.8802009 
+> estimateExtinction(Arctica[,"min_ma"],0.95)
+ Earliest    Latest 
+ 0.011700 -1.696099 
+> estimateExtinction(Aloides[,"min_ma"],0.95)
+Earliest   Latest 
+   5.333     -Inf 
+> estimateExtinction(Kurtiella[,"min_ma"],0.95)
+ Earliest    Latest 
+   0.0117 -189.9883 
+> estimateExtinction(Gouldia[,"min_ma"],0.95)
+ Earliest    Latest 
+ 0.011700 -2.047386 
+> estimateExtinction(Acrosterigma[,"min_ma"],0.95)
+ Earliest    Latest 
+ 0.011700 -3.481128
+ ````
+ 90% of relevant taxa have confidence intervals indicating that the taxon could still be extant.
